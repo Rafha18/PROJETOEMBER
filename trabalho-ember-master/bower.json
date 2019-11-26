@@ -1,0 +1,12 @@
+  
+{
+    "name": "me-shop",
+    "description": "Small description for me-shop goes here",
+    "main": "",
+    "authors": [],
+    "license": "MIT",
+    "dependencies": {
+      "jquery": "^3.4.1",
+      "bootstrap": "^4.3.1"
+    }
+  }
